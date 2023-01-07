@@ -1,1 +1,13 @@
 /* LANDING PAGE */
+
+* {
+  background: #fff;
+  background-image: url("../images/landing-page.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: Helvetica;
+  font-weight: bolder;
+  color: #fff;
+}
